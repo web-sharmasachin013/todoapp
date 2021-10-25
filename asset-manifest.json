@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/web-sharmasachin013/todoapp/static/css/main.2150c348.chunk.css",
-    "main.js": "/web-sharmasachin013/todoapp/static/js/main.1f615592.chunk.js",
-    "main.js.map": "/web-sharmasachin013/todoapp/static/js/main.1f615592.chunk.js.map",
-    "runtime-main.js": "/web-sharmasachin013/todoapp/static/js/runtime-main.8e901893.js",
-    "runtime-main.js.map": "/web-sharmasachin013/todoapp/static/js/runtime-main.8e901893.js.map",
-    "static/js/2.c8b3c499.chunk.js": "/web-sharmasachin013/todoapp/static/js/2.c8b3c499.chunk.js",
-    "static/js/2.c8b3c499.chunk.js.map": "/web-sharmasachin013/todoapp/static/js/2.c8b3c499.chunk.js.map",
-    "index.html": "/web-sharmasachin013/todoapp/index.html",
-    "static/css/main.2150c348.chunk.css.map": "/web-sharmasachin013/todoapp/static/css/main.2150c348.chunk.css.map",
-    "static/js/2.c8b3c499.chunk.js.LICENSE.txt": "/web-sharmasachin013/todoapp/static/js/2.c8b3c499.chunk.js.LICENSE.txt"
+    "main.css": "/todoapp/static/css/main.2150c348.chunk.css",
+    "main.js": "/todoapp/static/js/main.1f615592.chunk.js",
+    "main.js.map": "/todoapp/static/js/main.1f615592.chunk.js.map",
+    "runtime-main.js": "/todoapp/static/js/runtime-main.42367c9a.js",
+    "runtime-main.js.map": "/todoapp/static/js/runtime-main.42367c9a.js.map",
+    "static/js/2.c8b3c499.chunk.js": "/todoapp/static/js/2.c8b3c499.chunk.js",
+    "static/js/2.c8b3c499.chunk.js.map": "/todoapp/static/js/2.c8b3c499.chunk.js.map",
+    "index.html": "/todoapp/index.html",
+    "static/css/main.2150c348.chunk.css.map": "/todoapp/static/css/main.2150c348.chunk.css.map",
+    "static/js/2.c8b3c499.chunk.js.LICENSE.txt": "/todoapp/static/js/2.c8b3c499.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e901893.js",
+    "static/js/runtime-main.42367c9a.js",
     "static/js/2.c8b3c499.chunk.js",
     "static/css/main.2150c348.chunk.css",
     "static/js/main.1f615592.chunk.js"
